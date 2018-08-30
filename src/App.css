@@ -1,0 +1,78 @@
+body {
+  background-color: #C8E6C9;
+}
+
+.result-title {
+  margin-left: 15px;
+  margin-top: 10px;
+}
+
+.back-btn {
+  margin-top: 31px;
+}
+.calc-btn {
+  margin-top: 50px;
+  display: flex;
+  justify-content: center;
+  margin-top: 252px;
+}
+
+.arrow {
+  padding-left: 50px;
+}
+
+.under-weight {
+  padding-left: 12px;
+}
+.normal-weight {
+  padding-left: 122px;
+}
+.over-weight {
+  padding-left: 232px;
+}
+.obese-class-i {
+  padding-left: 342px;
+}
+.obese-class-ii {
+  padding-left: 452px;
+}
+.obese-class-iii {
+  padding-left: 562px;
+}
+
+.card-header {
+  text-align: center;
+  width: 685px;
+}
+
+.card {
+  border-radius: 10px;
+  width: 685px;
+  margin: auto;
+  margin-top: 50px;
+  font-family: 'Montserrat', sans-serif;
+}
+
+.fa-weight, .fa-ruler-vertical{
+  color: #1B5E20;
+  font-size: 20px;
+  padding-left: 30px;
+  padding-top: 20px;
+}
+
+.fa-ruler-vertical {
+  padding-left: 35px;
+}
+
+input {
+  margin: auto;
+}
+
+.border-success {
+  height: 600px;
+  width: 685px;
+}
+
+#cardCalc {
+  width: 685px;
+}
