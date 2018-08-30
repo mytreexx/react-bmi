@@ -20,7 +20,7 @@ function ResultsPage({ bmi, onBackClick }) {
         </div>
 
 
-        <img src="http://artoftall.com/wp-content/uploads/2016/07/bmi-categories_med.jpeg" alt="BMI Graph" />
+        <img src="bmi-graph.jpg" alt="BMI Graph" />
 
         <button className="btn btn-success back-btn" onClick={onBackClick}>
           Back
